@@ -14,7 +14,7 @@ my script offers following functionalities:
 - value monitor for LP and sniped token
 - no paid rpc needed!
 
-you will get access to the code of the project to make sure no drainer programms are hidden.
+you will get access to the code of the project to make sure no drainer programs are hidden.
 
 discord - duke894
 
